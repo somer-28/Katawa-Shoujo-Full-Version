@@ -245,4 +245,4 @@ This repository serves as the official landing page for Katawa Shoujo. The softw
 **Get the most recent version of Katawa Shoujo today!**
 
 ---
-**Last updated:** 2026-10-01 15:01:12 UTC
+**Last updated:** 2026-10-01 20:38:23 UTC
